@@ -31,7 +31,6 @@ namespace WindowsFormsApp1
                 Principal ventana = new Principal();
                 ventana.Show();
                 this.Hide();
-                ,
             }
         }
     }

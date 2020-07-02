@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="cbcda170-866e-4d0f-89b4-55fe6d0d99c4" name="Default Changelist" comment="m" />
+    <list default="true" id="cbcda170-866e-4d0f-89b4-55fe6d0d99c4" name="Default Changelist" comment="m">
+      <changelist_data />
+      <change beforePath="$PROJECT_DIR$/WindowsFormsApp1/Login.cs" beforeDir="false" afterPath="$PROJECT_DIR$/WindowsFormsApp1/Login.cs" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -79,6 +82,7 @@
       <option name="presentableId" value="Default" />
       <updated>1593700536066</updated>
       <workItem from="1593700553050" duration="7652000" />
+      <workItem from="1593722218982" duration="233000" />
     </task>
     <task id="LOCAL-00001" summary="m">
       <created>1593721538247</created>
@@ -87,20 +91,36 @@
       <option name="project" value="LOCAL" />
       <updated>1593721538247</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="m">
+      <created>1593722253471</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1593722253472</updated>
+    </task>
+    <task id="LOCAL-00003" summary="m">
+      <created>1593722305780</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1593722305780</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
-  <component name="UnityProjectConfiguration" hasMinimizedUI="null" />
+  <component name="UnityProjectConfiguration" hasMinimizedUI="false" />
   <component name="UnityUnitTestConfiguration" currentTestLauncher="NUnit" />
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
           </value>
         </entry>
       </map>
@@ -195,10 +215,14 @@
       <screen x="0" y="0" width="1360" height="738" />
     </state>
     <state x="181" y="11" key="SettingsEditor/0.0.1360.738@0.0.1360.738" timestamp="1593709451148" />
-    <state x="489" y="286" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1593722295742">
+    <state x="272" y="102" key="Vcs.Push.Dialog.v2" timestamp="1593722469332">
       <screen x="0" y="0" width="1360" height="738" />
     </state>
-    <state x="489" y="286" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1360.738@0.0.1360.738" timestamp="1593722295742" />
+    <state x="272" y="102" key="Vcs.Push.Dialog.v2/0.0.1360.738@0.0.1360.738" timestamp="1593722469332" />
+    <state x="489" y="286" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1593722451070">
+      <screen x="0" y="0" width="1360" height="738" />
+    </state>
+    <state x="489" y="286" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1360.738@0.0.1360.738" timestamp="1593722451070" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
